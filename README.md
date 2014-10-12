@@ -29,7 +29,7 @@ for easier identification, a line should be added to `dhcp-hosts.conf` and
 this update pushed to GitHub for backup.
 
 It's optional but for the sake of easier debugging, 'localhost' should be 
-added to `/etc/resolv.conf' (after '192.168.11.1') to provide reflection of 
-the names issued by DHCP to the 'dnsmasq' device itself.
+added to `/etc/resolv.conf` (after '192.168.11.1') to provide reflection of 
+the names issued by DHCP to the `dnsmasq` device itself.
 
   
